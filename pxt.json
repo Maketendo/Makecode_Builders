@@ -1,0 +1,41 @@
+{
+    "name": " Makecode Builders+ ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-Raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.2",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#c8b01b9d47f85a5133c786f1c026b1f376fe4285",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "multiplayer": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.22",
+        "tag": "v1.8.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/6017af228c87817006b555668c65933bf3cbff4c",
+        "target": "1.12.22",
+        "pxt": "7.4.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
