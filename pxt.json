@@ -1,5 +1,5 @@
 {
-    "name": " Makecode Builders+ ",
+    "name": " Makecode Builders v2.1",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -11,7 +11,8 @@
         "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "multiplayer": "*"
+        "multiplayer": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1"
     },
     "files": [
         "main.blocks",
@@ -30,7 +31,7 @@
         "branch": "v1.8.22",
         "tag": "v1.8.22",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/6017af228c87817006b555668c65933bf3cbff4c",
-        "target": "1.12.22",
+        "target": "1.12.24",
         "pxt": "7.4.26",
         "targetId": "arcade"
     },
