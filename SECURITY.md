@@ -8,11 +8,11 @@
 
 ## Supported Extras
 
-| Version | Supported          |
+| Extras | Supported          |
 | ------- | ------------------ |
-|  2.0.X | :white_check_mark: |
-| Betas (Before 2.0)  | :x:                |
-| Blocks Edition  | :white_check_mark: |
+|  Marketplace | :x: |
+| Accounts  | :x:                |
+| Bound Builder  | :x: |
 
 
 
