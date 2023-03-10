@@ -14,6 +14,8 @@
 | Accounts  | :x:                |
 | Bound Builder  | :x: |
 
+| Block Editor | :x: |
+
 
 
 
