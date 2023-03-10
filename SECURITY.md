@@ -12,7 +12,7 @@
 | ------- | ------------------ |
 |  Marketplace | :x: |
 | Accounts  | :x:                |
-| Bound Builder  | :x: |
+| Bound Builder  | : I : |
 
 | Block Editor | :x: |
 
